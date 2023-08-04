@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
 </div>
 
-### Hi there 👋
+### Привет, меня зовут Илья 👋
+### :man_technologist: Обо мне:
+Я начинающий веб-разработчик из Москвы.
 
 
 
