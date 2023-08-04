@@ -6,9 +6,13 @@
 ## Я начинающий веб-разработчик :joy_cat:
 
 :ghost: Мечтаю делать интерфейсы по-настоящему красивыми, чтобы удивлять пользователей
+
 :japanese_goblin: Хочу научиться делать так, чтобы интерфейс был не только красивым, но и удобным для пользователей
+
 :alien: Хочу работать с опытной командой, где смогу расти, как специалист и человек
+
 :robot: Понимаю, что главный девиз современности "учиться, учиться и еще раз учиться", но хочу и изученной применять на практике
+
 
 ### Мой стек :hammer_and_wrench:
 <div>
@@ -21,7 +25,9 @@
 </div>
 
 ### Моя статистика :fire: 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ilia-puchkov)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilia-puchkov&theme=dark&border_radius=4&locale=ru&mode=weekly)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilia-puchkov)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ilia-puchkov/ilia-puchkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
