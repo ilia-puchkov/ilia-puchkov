@@ -27,7 +27,7 @@
 ### Моя статистика :fire: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilia-puchkov&theme=dark&border_radius=4&locale=ru&mode=weekly)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilia-puchkov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilia-puchkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ilia-puchkov/ilia-puchkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
